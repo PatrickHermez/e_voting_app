@@ -1,0 +1,25 @@
+:root {
+  --accordion-text-color: #303859;
+  --accordion-background-color: #f0f0ff;
+  --envelope-sides-color: #3f32ee;
+  --envelope-top-color: #3725c4;
+  --envelope-bottom-color: #2e0ecc;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  min-height: 100vh;
+}

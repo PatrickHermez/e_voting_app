@@ -1,0 +1,167 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "List 1",
+      "candidates": [
+        {
+          "id": 1,
+          "name": "Candidate A",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 1000,
+          "name": "Candidate B",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 1000000,
+          "name": "Candidate C",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 1000000000,
+          "name": "Candidate D",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 1000000000000,
+          "name": "Candidate E",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 1000000000000000,
+          "name": "Candidate F",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000,
+          "name": "Candidate G",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000,
+          "name": "Candidate H",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000,
+          "name": "Candidate I",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 0,
+          "name": "No Candidate",
+          "imageUrl": "/user.svg"
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "List 2",
+      "candidates": [
+        {
+          "id": 10000000000000000000000000000,
+          "name": "Candidate J",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000,
+          "name": "Candidate K",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000,
+          "name": "Candidate L",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000,
+          "name": "Candidate M",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000,
+          "name": "Candidate N",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000,
+          "name": "Candidate O",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000,
+          "name": "Candidate P",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000,
+          "name": "Candidate Q",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000,
+          "name": "Candidate R",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate S",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate T",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 0,
+          "name": "No Candidate",
+          "imageUrl": "/user.svg"
+        }
+      ]
+    },
+    {
+      "id": 1000000,
+      "name": "List 3",
+      "candidates": [
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate U",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate V",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate W",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate X",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate Y",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 10000000000000000000000000000000000000000000000000000000000000000000000000000,
+          "name": "Candidate Z",
+          "imageUrl": "/user.svg"
+        },
+        {
+          "id": 0,
+          "name": "No Candidate",
+          "imageUrl": "/user.svg"
+        }
+      ]
+    }
+  ]
+}
